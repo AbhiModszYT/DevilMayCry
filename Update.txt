@@ -1,9 +1,6 @@
 
-Last Updated: 05/05/2026
+Last Updated: 07/07/2026
 
-Added : Infinity Jumps
-Added : Speed Hack
-Added : Freeze Ai
-Added : Freeze Time
-Updated : 😵‍💫😵‍💫
+Fixed : Keys System 
+Fixed : Bugs & Improved 
 Updated : 😵‍💫😵‍💫
